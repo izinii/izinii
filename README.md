@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am currently a student at ESILV Paris, specializing in Data and Artificial Intelligence.  
+I am currently a student at ESILV Paris, specializing in **Data and Artificial Intelligence**.  
 I enjoy working on real-world projects that combine software engineering, data processing, and machine learning.
 
 ---
@@ -34,4 +34,4 @@ I enjoy working on real-world projects that combine software engineering, data p
 ## Connect with Me
 
 - **LinkedIn**: [https://www.linkedin.com/in/ilan-zini](https://www.linkedin.com/in/ilan-zini-773a28223/)  
-- **Email**: [ilanzini.pro@gmail.com](ilanzini.pro@gmail.com)
+- **Email**: ilanzini.pro@gmail.com
