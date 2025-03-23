@@ -1,13 +1,11 @@
 # Hello, I'm Ilan Zini 👋
 
----
 
 ## About Me
 
 I am currently a student at ESILV Paris, specializing in **Data and Artificial Intelligence**.  
 I enjoy working on real-world projects that combine software engineering, data processing, and machine learning.
 
----
 
 ## Skills
 
@@ -29,7 +27,6 @@ I enjoy working on real-world projects that combine software engineering, data p
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
----
 
 ## Connect with Me
 
