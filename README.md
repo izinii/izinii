@@ -4,7 +4,6 @@
 ## About Me
 
 I am currently a student at ESILV Paris, specializing in **Data and Artificial Intelligence**.  
-I enjoy working on real-world projects that combine software engineering, data processing, and machine learning.
 
 
 ## Skills
