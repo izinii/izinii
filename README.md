@@ -24,4 +24,4 @@ I am currently a student at ESILV Paris, specializing in **Data and Artificial I
 
 ## Connect with Me
 
-- **LinkedIn**! [[https://www.linkedin.com/in/ilan-zini](https://www.linkedin.com/in/ilan-zini/)]
+- **LinkedIn**: [https://www.linkedin.com/in/ilan-zini](www.linkedin.com/in/ilan-zini) 
